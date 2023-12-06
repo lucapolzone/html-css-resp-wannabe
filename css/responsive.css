@@ -1,0 +1,7 @@
+/* Media query per larghezza container valida fino a width 768px */
+
+@media screen and (max-width: 1160px) {
+  .container {
+    width: 100%;
+  }    
+}
